@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyek Analisis Nilai Siswa
 
 ## Deskripsi
@@ -15,3 +16,26 @@ Program ini dirancang untuk melakukan analisis data nilai siswa secara otomatis,
 Buka terminal di VS Code, lalu jalankan perintah berikut:
 ```bash
 python main.py
+=======
+# Proyek Akhir: Program Rekap dan Analisis Nilai Matematika Kelas
+
+Repositori ini dikembangkan untuk memenuhi tugas Proyek Akhir Mata Kuliah Algoritma dan Pemrograman (Pertemuan 14–16) S1 Pendidikan Matematika Untirta.
+
+## Struktur Folder Proyek
+```text
+proyek-akhir-analisis-nilai-2225250209/
+|-- README.md
+|-- proposal.md
+|-- .gitignore
+|-- data/
+|   `-- nilai_contoh.txt
+|-- src/
+|   |-- main.py
+|   |-- data_io.py
+|   |-- analisis.py
+|   `-- utilitas.py
+|-- tests/
+|   `-- test_case.md
+`-- output/
+    `-- .gitkeep
+>>>>>>> 4dffcacf6441db35d5bc2d8bc64fcda0b82998e0
